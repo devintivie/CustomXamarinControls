@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.Android\\CustomXamarinControls.Android.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.Android\\CustomXamarinControls.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.Android\\CustomXamarinControls.Android.csproj",
+        "projectName": "CustomXamarinControls.Android",
+        "projectPath": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.Android\\CustomXamarinControls.Android.csproj",
+        "packagesPath": "C:\\Users\\devin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\devin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
