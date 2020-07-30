@@ -1,0 +1,10 @@
+C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls\bin\Debug\netstandard2.0\CustomXamarinControls.deps.json
+C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls\bin\Debug\netstandard2.0\CustomXamarinControls.dll
+C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls\bin\Debug\netstandard2.0\CustomXamarinControls.pdb
+C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls\obj\Debug\netstandard2.0\CustomXamarinControls.csprojAssemblyReference.cache
+C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls\obj\Debug\netstandard2.0\CustomXamarinControls.AssemblyInfoInputs.cache
+C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls\obj\Debug\netstandard2.0\CustomXamarinControls.AssemblyInfo.cs
+C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls\obj\Debug\netstandard2.0\CustomXamarinControls.csproj.CoreCompileInputs.cache
+C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls\obj\Debug\netstandard2.0\CustomXamarinControls.dll
+C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls\obj\Debug\netstandard2.0\CustomXamarinControls.pdb

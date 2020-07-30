@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Q2sUCGMmXTQZFPjKw8HnGdX2yWS/h4Fd3lY0+kg8jhzQQb33jhMUfg9fh+ICj2IYD8Syt0lOYxP59BMXqjNTeg==",
+  "dgSpecHash": "AlrAhdURKAdHlfOJIfwhQB61R7bM5GHdkvVoew2jv6Uie+F21RW8bPGZPpDt9+tyRnHWCi3iIyyAkAE0tpuwog==",
   "success": true,
   "projectFilePath": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.Android\\CustomXamarinControls.Android.csproj",
   "expectedPackageFiles": [
@@ -20,20 +20,28 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.core.ui\\28.0.0.3\\xamarin.android.support.core.ui.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.core.utils\\28.0.0.3\\xamarin.android.support.core.utils.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.cursoradapter\\28.0.0.3\\xamarin.android.support.cursoradapter.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.customtabs\\28.0.0.3\\xamarin.android.support.customtabs.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.customview\\28.0.0.3\\xamarin.android.support.customview.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.design\\28.0.0.3\\xamarin.android.support.design.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.documentfile\\28.0.0.3\\xamarin.android.support.documentfile.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.drawerlayout\\28.0.0.3\\xamarin.android.support.drawerlayout.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.fragment\\28.0.0.3\\xamarin.android.support.fragment.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.interpolator\\28.0.0.3\\xamarin.android.support.interpolator.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.loader\\28.0.0.3\\xamarin.android.support.loader.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.localbroadcastmanager\\28.0.0.3\\xamarin.android.support.localbroadcastmanager.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.media.compat\\28.0.0.3\\xamarin.android.support.media.compat.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.print\\28.0.0.3\\xamarin.android.support.print.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.slidingpanelayout\\28.0.0.3\\xamarin.android.support.slidingpanelayout.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.swiperefreshlayout\\28.0.0.3\\xamarin.android.support.swiperefreshlayout.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.transition\\28.0.0.3\\xamarin.android.support.transition.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.v4\\28.0.0.3\\xamarin.android.support.v4.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.v7.appcompat\\28.0.0.3\\xamarin.android.support.v7.appcompat.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.v7.cardview\\28.0.0.3\\xamarin.android.support.v7.cardview.28.0.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.v7.recyclerview\\28.0.0.3\\xamarin.android.support.v7.recyclerview.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.vector.drawable\\28.0.0.3\\xamarin.android.support.vector.drawable.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.versionedparcelable\\28.0.0.3\\xamarin.android.support.versionedparcelable.28.0.0.3.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.viewpager\\28.0.0.3\\xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512"
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.viewpager\\28.0.0.3\\xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\xamarin.forms\\4.7.0.1142\\xamarin.forms.4.7.0.1142.nupkg.sha512"
   ],
   "logs": []
 }

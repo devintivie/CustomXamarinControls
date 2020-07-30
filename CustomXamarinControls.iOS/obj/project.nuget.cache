@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "S/gVkznlJANzfTeAuLQdfbLqZH//ynM+NEEsCi+Q7EL+jLkcdOqlIY6GXHSbxrTIYRMDFI8sdUatuzR6YjH7Dg==",
+  "dgSpecHash": "NGPCM//eQgeu5VAdcgWSl0zANfmaIhTgkILr5hBVru67aWGHu1VTBHqZzweWXFQrxfNa3wU4uT0fetxwLanOIg==",
   "success": true,
   "projectFilePath": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.iOS\\CustomXamarinControls.iOS.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\devin\\.nuget\\packages\\xamarin.forms\\4.7.0.1142\\xamarin.forms.4.7.0.1142.nupkg.sha512"
+  ],
   "logs": []
 }
