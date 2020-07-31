@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "sxA+aid7AvpMTB1cGNO5FUv2YPntW2omgmIF/g/8YIlD73DiP/7HtzSlVQ+IS1F6ycIkK+wUnbPI+4XKo8LTcA==",
+  "dgSpecHash": "mrGTbCeZs9D2n0960ZSOYDFAv/s10Wj/e78uNa+CDkxDAW42PbbqinD7wRiJ7XdcfL7VB2LCshIbXmhIl9SYiA==",
   "success": true,
   "projectFilePath": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls\\CustomXamarinControls.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\devin\\.nuget\\packages\\xamarin.forms\\4.7.0.1142\\xamarin.forms.4.7.0.1142.nupkg.sha512"
   ],
   "logs": []

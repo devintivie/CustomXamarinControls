@@ -40,6 +40,8 @@
     <Folder Include="Resources\" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CustomDatePickerRenderer.cs" />
+    <Compile Include="CustomEntryRenderer.cs" />
     <Compile Include="CustomPickerRenderer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

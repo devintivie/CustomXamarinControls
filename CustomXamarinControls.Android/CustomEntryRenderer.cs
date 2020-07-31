@@ -1,6 +1,6 @@
 ﻿using Android.Content;
 using CustomXamarinControls;
-using CustomXamarinControls.Android;
+using CustomXamarinControls.Droid;
 using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.Android;
@@ -8,9 +8,10 @@ using Xamarin.Forms.Platform.Android.AppCompat;
 using Android.Graphics;
 using Android.Graphics.Drawables;
 using Color = Android.Graphics.Color;
+using Android.Text;
 
 [assembly: ExportRenderer(typeof(CustomEntry), typeof(CustomEntryRenderer))]
-namespace CustomXamarinControls.Android
+namespace CustomXamarinControls.Droid
 {
     public class CustomEntryRenderer : EntryRenderer
     {
@@ -26,6 +27,7 @@ namespace CustomXamarinControls.Android
             Control.SetPadding(8, 8, 8, 8);
 
             var view = (CustomEntry)Element;
+            Control.InputType = InputTypes.TextFlagCapSentences;
             
             var color = view.BackgroundColor.ToAndroid();
             

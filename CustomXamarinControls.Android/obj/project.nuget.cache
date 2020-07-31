@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AlrAhdURKAdHlfOJIfwhQB61R7bM5GHdkvVoew2jv6Uie+F21RW8bPGZPpDt9+tyRnHWCi3iIyyAkAE0tpuwog==",
+  "dgSpecHash": "fi+hAEoh1AIYsa3d14hUL84MjewoozX8Yx8AF9sLuk3442yK1EODGsdmzZLvMkAGkb9psBkSSu5a/HtRptwf3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.Android\\CustomXamarinControls.Android.csproj",
+  "projectFilePath": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.Android\\CustomXamarinControls.Droid.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

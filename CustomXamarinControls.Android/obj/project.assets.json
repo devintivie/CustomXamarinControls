@@ -1875,9 +1875,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.Android\\CustomXamarinControls.Android.csproj",
-      "projectName": "CustomXamarinControls.Android",
-      "projectPath": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.Android\\CustomXamarinControls.Android.csproj",
+      "projectUniqueName": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.Android\\CustomXamarinControls.Droid.csproj",
+      "projectName": "CustomXamarinControls.Droid",
+      "projectPath": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.Android\\CustomXamarinControls.Droid.csproj",
       "packagesPath": "C:\\Users\\devin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.Android\\obj\\",
       "projectStyle": "PackageReference",

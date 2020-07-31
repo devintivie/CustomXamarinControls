@@ -1,7 +1,7 @@
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\build.props
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\adb.props
-C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\CustomXamarinControls.Android.csprojAssemblyReference.cache
+C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\CustomXamarinControls.Droid.csprojAssemblyReference.cache
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\res.flag
@@ -29,7 +29,9 @@ C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\R.txt
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\R.cs.flag
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\__AndroidLibraryProjects__.zip
-C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\CustomXamarinControls.Android.csproj.CoreCompileInputs.cache
+C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\CustomXamarinControls.Droid.csproj.CoreCompileInputs.cache
+C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\CustomXamarinControls.Android.dll
+C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\CustomXamarinControls.Android.pdb
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\bin\Debug\CustomXamarinControls.Android.dll
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\bin\Debug\CustomXamarinControls.Android.pdb
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\bin\Debug\CustomXamarinControls.Android.apk
@@ -39,9 +41,7 @@ C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\bin\Debug\CustomXamarinControls.dll
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\bin\Debug\CustomXamarinControls.pdb
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\XamlC.stamp
-C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\CustomXamarinControls.Android.csproj.CopyComplete
-C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\CustomXamarinControls.Android.dll
-C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\CustomXamarinControls.Android.pdb
+C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\CustomXamarinControls.Droid.csproj.CopyComplete
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\android\bin\CustomXamarinControls.Android.apk
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\android\bin\base.zip
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.Android\obj\Debug\90\android\bin\CustomXamarinControls.Android.aab

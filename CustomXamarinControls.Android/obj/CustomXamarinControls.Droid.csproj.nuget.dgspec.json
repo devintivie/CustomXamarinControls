@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.iOS\\CustomXamarinControls.iOS.csproj": {}
+    "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.Android\\CustomXamarinControls.Droid.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.iOS\\CustomXamarinControls.iOS.csproj": {
+    "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.Android\\CustomXamarinControls.Droid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.iOS\\CustomXamarinControls.iOS.csproj",
-        "projectName": "CustomXamarinControls.iOS",
-        "projectPath": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.iOS\\CustomXamarinControls.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.Android\\CustomXamarinControls.Droid.csproj",
+        "projectName": "CustomXamarinControls.Droid",
+        "projectPath": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.Android\\CustomXamarinControls.Droid.csproj",
         "packagesPath": "C:\\Users\\devin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.iOS\\obj\\",
+        "outputPath": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -23,14 +23,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "xamarinios10"
+          "monoandroid90"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "xamarinios10": {
+          "monoandroid90": {
             "projectReferences": {
               "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls\\CustomXamarinControls.csproj": {
                 "projectPath": "C:\\Users\\devin\\source\\repos\\CustomXamarinControls\\CustomXamarinControls\\CustomXamarinControls.csproj"
@@ -40,8 +40,12 @@
         }
       },
       "frameworks": {
-        "xamarinios10": {
+        "monoandroid90": {
           "dependencies": {
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[4.7.0.1142, )"
