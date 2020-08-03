@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("CustomXamarinControls.Android.Resource", IsApplication=false)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("CustomXamarinControls.Droid.Resource", IsApplication=false)]
 
-namespace CustomXamarinControls.Android
+namespace CustomXamarinControls.Droid
 {
 	
 	

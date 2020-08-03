@@ -5,7 +5,6 @@ C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.iOS\bin\
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.iOS\bin\Debug\CustomXamarinControls.pdb
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.iOS\bin\Debug\Xamarin.Forms.Platform.iOS.pdb
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.iOS\obj\Debug\optimized\
-C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.iOS\obj\Debug\CustomXamarinControls.iOS.csprojAssemblyReference.cache
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.iOS\obj\Debug\CustomXamarinControls.iOS.csproj.CoreCompileInputs.cache
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.iOS\obj\Debug\XamlC.stamp
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.iOS\obj\Debug\CustomXamarinControls.iOS.csproj.CopyComplete
@@ -17,3 +16,4 @@ C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.iOS\obj\
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.iOS\obj\Debug\CopyFilesToMac\Xamarin.Forms.Platform.iOS.pdb.ReferenceCopyLocalPaths.stamp
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.iOS\obj\Debug\CopyFilesToMac\CustomXamarinControls.iOS.dll.mdb.ReferenceCopyLocalPaths.stamp
 C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.iOS\obj\Debug\CopyFilesToMac\CustomXamarinControls.iOS.pdb.DebugSymbolsProjectOutputGroupOutput.stamp
+C:\Users\devin\source\repos\CustomXamarinControls\CustomXamarinControls.iOS\obj\Debug\CustomXamarinControls.iOS.csprojAssemblyReference.cache

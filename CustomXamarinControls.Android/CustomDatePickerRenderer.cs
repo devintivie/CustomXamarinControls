@@ -24,7 +24,9 @@ namespace CustomXamarinControls.Droid
             base.OnElementChanged(e);
             Control.SetPadding(8, 8, 8, 8);
 
+            
             var view = (CustomDatePicker)Element;
+            
             var color = view.BackgroundColor.ToAndroid();
             GradientDrawable gd = new GradientDrawable();
             if (view.BackgroundColor.IsDefault)

@@ -20,4 +20,21 @@ namespace CustomXamarinControls
     {
 
     }
+
+    public class CustomViewCell : ViewCell
+    {
+        
+    }
+    public class TransparentSelectListView : ListView
+    {
+        public TransparentSelectListView()
+        {
+            ItemSelected += CustomListView_ItemSelected;
+        }
+
+        private void CustomListView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
+        {
+            SelectedItem = null;
+        }
+    }
 }

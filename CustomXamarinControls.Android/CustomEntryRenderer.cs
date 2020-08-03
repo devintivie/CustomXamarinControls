@@ -27,7 +27,7 @@ namespace CustomXamarinControls.Droid
             Control.SetPadding(8, 8, 8, 8);
 
             var view = (CustomEntry)Element;
-            Control.InputType = InputTypes.TextFlagCapSentences;
+            Control.InputType = InputTypes.TextFlagCapWords;
             
             var color = view.BackgroundColor.ToAndroid();
             

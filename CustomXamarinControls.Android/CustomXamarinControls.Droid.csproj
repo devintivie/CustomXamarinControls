@@ -10,8 +10,8 @@
     <TemplateGuid>{9ef11e43-1701-4396-8835-8392d57abb70}</TemplateGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CustomXamarinControls.Android</RootNamespace>
-    <AssemblyName>CustomXamarinControls.Android</AssemblyName>
+    <RootNamespace>CustomXamarinControls.Droid</RootNamespace>
+    <AssemblyName>CustomXamarinControls.Droid</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <Deterministic>True</Deterministic>
     <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
@@ -49,6 +49,8 @@
   <ItemGroup>
     <Compile Include="CustomEntryRenderer.cs" />
     <Compile Include="CustomDatePickerRenderer.cs" />
+    <Compile Include="CustomListViewRenderer.cs" />
+    <Compile Include="CustomViewCellRenderer.cs" />
     <Compile Include="CustomPickerRenderer.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

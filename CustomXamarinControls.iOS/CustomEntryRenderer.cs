@@ -16,6 +16,7 @@ namespace CustomXamarinControls.iOS
         protected override void OnElementChanged(ElementChangedEventArgs<Entry> e)
         {
             base.OnElementChanged(e);
+            
         }
     }
 }
